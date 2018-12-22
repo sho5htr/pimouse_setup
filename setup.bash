@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#written by s.htr
 
 exec 2> /tmp/setup.log
 
